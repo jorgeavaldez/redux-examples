@@ -1,0 +1,10 @@
+{
+  "name": "reduxxx",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Jorge Valdez @delvaze",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
